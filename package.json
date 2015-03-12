@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/radiodario/confetti-party/issues"
   },
-  "homepage": "https://github.com/radiodario/confetti-party"
+  "homepage": "https://github.com/radiodario/confetti-party",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "dependencies": {
+    "canvas": "^1.2.1"
+  }
 }
